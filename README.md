@@ -360,6 +360,7 @@ WEB-RTC 기술을 활용한 서비스를 개발해보자
   - PostgreSQL 구축
   - MongoDB(채팅) 구축
   - Redis 구축
+  - AWS S3 구축
 - 디자인
   - 목업 디자인 인스턴스 적용
   - 채팅 디자인
